@@ -11,8 +11,8 @@ A very basic understanding of HTML, CSS & JavaScript
 This is a purely project-based course. It is geared toward beginners, but intermediate developers can also enjoy creating new things. This course includes 50 mini projects in HTML, CSS & JavaScript that relate to the DOM (Document Object Model). Here is a list of what we will create in this course:
 
 1. [Expanding Cards](https://github.com/dzenitaa96/50-Projects-In-50-Days/tree/main/1.%20Expanding%20cards)
-2. Progress Steps
-3. Rotating Navigation Animation
+2. [Progress Steps](https://github.com/dzenitaa96/50-Projects-In-50-Days/tree/main/2.%20Progress%20steps)
+3. [Rotating Navigation Animation](https://github.com/dzenitaa96/50-Projects-In-50-Days/tree/main/3.%20Rotating%20navigation%20animation)
 4. Hidden Search Widget
 5. Blurry Loading
 6. Scroll Animation
