@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Gothic&family=PT+Serif:ital@0;1&display=swap');
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+}
+
+
+body {
+    font-family: 'PT Serif', serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+    background-color: #18191A;
+}
+
+.container {
+    display: flex;
+    width: 90vw;
+    
+}
+
+.panel {
+    background-size: auto 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+    border-radius: 50px;
+    color: #fff;
+    cursor: pointer;
+    flex: 0.5;
+    margin: 10px;
+    position: relative;
+    transition: flex 0.7s ease-in;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 #767b80;
+}
+
+.panel h3 {
+    font-size: 30px;
+    font-stretch: extra-expanded;
+    position: absolute;
+    bottom: 20px;
+    left: 30px;
+    margin: 0;
+    opacity: 0;
+    text-shadow: 2px 2px #18191A ;
+}
+
+.panel p {
+    font-family: 'PT Serif', serif;
+    font-size: 50%;
+    position: absolute;
+    bottom: 10px;
+    left: 30px;
+}
+
+.panel.active {
+    flex: 5;
+    border-radius: 50px;
+}
+
+.panel.active h3 {
+    opacity: 1;
+    transition: opacity 0.3s ease-in 0.4s;
+}
+
+
+@media(max-width: 480px) {
+    .container {
+        width: 100vw;
+    }
+    .panel:nth-of-type(4), .panel:nth-of-type(5) {
+        display: none;
+    }
+}
