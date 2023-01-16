@@ -17,7 +17,7 @@ This is a purely project-based course. It is geared toward beginners, but interm
 5. [Blurry Loading](https://github.com/dzenitaa96/50-Projects-In-50-Days/tree/main/5.%20Blurry%20Loading)
 6. [Scroll Animation](https://github.com/dzenitaa96/50-Projects-In-50-Days/tree/main/6.%20Scroll%20Animation)
 7. [Split Landing Page](https://github.com/dzenitaa96/50-Projects-In-50-Days/tree/main/7.%20Split%20landing%20page)
-8. Form Wave
+8. [Form Wave](https://github.com/dzenitaa96/50-Projects-In-50-Days/tree/main/8.%20Form%20Wave)
 9. Sound Board
 10. Dad Jokes
 11. Event Keycodes
