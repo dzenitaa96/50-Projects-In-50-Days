@@ -19,7 +19,7 @@ This is a purely project-based course. It is geared toward beginners, but interm
 7. [Split Landing Page](https://github.com/dzenitaa96/50-Projects-In-50-Days/tree/main/7.%20Split%20landing%20page)
 8. [Form Wave](https://github.com/dzenitaa96/50-Projects-In-50-Days/tree/main/8.%20Form%20Wave)
 9. [Sound Board](https://github.com/dzenitaa96/50-Projects-In-50-Days/tree/main/9.%20Sound%20Board)
-10. Dad Jokes
+10. [Dad Jokes](https://github.com/dzenitaa96/50-Projects-In-50-Days/tree/main/10.%20Dad%20Jokes)
 11. Event Keycodes
 12. Faq Collapse
 13. Random Choice Picker
