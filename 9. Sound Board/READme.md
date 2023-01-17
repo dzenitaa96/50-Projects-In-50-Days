@@ -3,4 +3,4 @@
 Create a row of button which play different sounds when clicked.
 
 ## Result of the challenge
-- [Codepen link](https://codepen.io/dzenitaa96/pen/RwBLGzr) for the solution
+- [Codepen link](https://codepen.io/your-work/?grid_type=list) for the solution
