@@ -21,7 +21,7 @@ This is a purely project-based course. It is geared toward beginners, but interm
 9. [Sound Board](https://github.com/dzenitaa96/50-Projects-In-50-Days/tree/main/9.%20Sound%20Board)
 10. [Dad Jokes](https://github.com/dzenitaa96/50-Projects-In-50-Days/tree/main/10.%20Dad%20Jokes)
 11. [Event Keycodes](https://github.com/dzenitaa96/50-Projects-In-50-Days/tree/main/11.%20Event%20Keycodes)
-12. Faq Collapse
+12. [Faq Collapse](https://github.com/dzenitaa96/50-Projects-In-50-Days/tree/main/12.%20Faq%20Collapse)
 13. Random Choice Picker
 14. Animated Navigation
 15. Incrementing Counter
