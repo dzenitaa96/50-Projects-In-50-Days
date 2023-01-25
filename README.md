@@ -23,7 +23,7 @@ This is a purely project-based course. It is geared toward beginners, but interm
 11. [Event Keycodes](https://github.com/dzenitaa96/50-Projects-In-50-Days/tree/main/11.%20Event%20Keycodes)
 12. [Faq Collapse](https://github.com/dzenitaa96/50-Projects-In-50-Days/tree/main/12.%20Faq%20Collapse)
 13. [Random Choice Picker](https://github.com/dzenitaa96/50-Projects-In-50-Days/tree/main/13.%20Random%20Choice%20Picker)
-14. Animated Navigation
+14. [Animated Navigation](https://github.com/dzenitaa96/50-Projects-In-50-Days/tree/main/14.%20Animated%20Navigation)
 15. Incrementing Counter
 16. Drink Water
 17. Movie App
