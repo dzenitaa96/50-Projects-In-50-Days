@@ -26,7 +26,7 @@ This is a purely project-based course. It is geared toward beginners, but interm
 14. [Animated Navigation](https://github.com/dzenitaa96/50-Projects-In-50-Days/tree/main/14.%20Animated%20Navigation)
 15. [Incrementing Counter](https://github.com/dzenitaa96/50-Projects-In-50-Days/tree/main/15.%20Incrementing%20Counter)
 16. [Drink Water](https://github.com/dzenitaa96/50-Projects-In-50-Days/tree/main/16.%20Drink%20Water)
-17. Movie App
+17. [Movie App](https://github.com/dzenitaa96/50-Projects-In-50-Days/tree/main/17.%20Movie%20App)
 18. Background Slider
 19. Theme Clock
 20. Button Ripple Effect
