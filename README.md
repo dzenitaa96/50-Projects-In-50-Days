@@ -29,7 +29,7 @@ This is a purely project-based course. It is geared toward beginners, but interm
 17. [Movie App](https://github.com/dzenitaa96/50-Projects-In-50-Days/tree/main/17.%20Movie%20App)
 18. [Background Slider](https://github.com/dzenitaa96/50-Projects-In-50-Days/tree/main/18.%20Background%20Slider)
 19. [Theme Clock](https://github.com/dzenitaa96/50-Projects-In-50-Days/tree/main/19.%20Theme%20Clock)
-20. Button Ripple Effect
+20. [Button Ripple Effect](https://github.com/dzenitaa96/50-Projects-In-50-Days/tree/main/20.%20Button%20Ripple%20Effect)
 21. Drag N Drop
 22. Drawing App
 23. Kinetic Loader
