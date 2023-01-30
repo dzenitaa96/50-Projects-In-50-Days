@@ -32,7 +32,7 @@ This is a purely project-based course. It is geared toward beginners, but interm
 20. [Button Ripple Effect](https://github.com/dzenitaa96/50-Projects-In-50-Days/tree/main/20.%20Button%20Ripple%20Effect)
 21. [Drag N Drop](https://github.com/dzenitaa96/50-Projects-In-50-Days/tree/main/21.%20Drag%20N%20Drop)
 22. [Drawing App](https://github.com/dzenitaa96/50-Projects-In-50-Days/tree/main/22.%20Drawing%20App)
-23. Kinetic Loader
+23. [Kinetic Loader](https://github.com/dzenitaa96/50-Projects-In-50-Days/tree/main/23.%20Kinetic%20Loader)
 24. Content Placeholder
 25. Sticky Navbar
 26. Double Vertical Slider
